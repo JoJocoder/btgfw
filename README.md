@@ -35,7 +35,7 @@ tags: [vps, vultr, ShadowsocksR, ssr, bash]
 第二个选项为选择服务器类型（Server Type），即选择服务器操作系统。建议选择Debian 7 x64，默认没有防火墙，会减少很多麻烦。
 ![服务器类型](https://github.com/btgfw/btgfw/blob/master/fig/服务器类型.jpg)
 
-第三个选项为选择服务器大小（Server Size），即选择服务器硬件性能。因为我们使用VPS服务器FQ，所以性能瓶颈不在配置，而在网络带宽之类的。由于vultr的服务器带宽都是100M的，所以服务器当然是往便宜了选。当然，\$2.5/mo的一般都是缺货的。选择\$5/mo的就好，一个月三十几块钱，要是有好几个人一起分担的话就相当实惠了。
+第三个选项为选择服务器大小（Server Size），即选择服务器硬件性能。因为我们使用VPS服务器FQ，所以性能瓶颈不在配置，而在网络带宽之类的。由于vultr的服务器带宽都是100M的，所以服务器当然是往便宜了选。当然，\$2.5/mo的一般都是缺货的，个别城市有，选择\$5/mo的就好，一个月三十几块钱，要是有好几个人一起分担的话就相当实惠了。
 ![服务器大小](https://github.com/btgfw/btgfw/blob/master/fig/服务器大小.jpg)
 
 第四、五、六三个选项不懂就可以不用管它。
@@ -256,6 +256,4 @@ IOS客户端：[SSRforIOS](https://github.com/j-proxy/iossos)；
 Android客户端：[SSRforAndroid](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)。
 
 
-# 6. 本帖永久地址
 
-GitHub：[https://github.com](https://github.com/btgfw/btgfw)
